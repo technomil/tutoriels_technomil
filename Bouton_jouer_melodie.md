@@ -1,4 +1,4 @@
-# Faire jouer une mélodie en pressant un bouton
+# Faire jouer une mélodie en pressant le bouton A
 Programme le micro:bit pour qu'une mélodie joue lorsqu'un bouton est pressé.
 
 
