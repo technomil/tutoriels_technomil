@@ -69,7 +69,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 7
 Ajoute un dernier bloc `` || Music: jouer tonalité Middle C pour 1 temps jusqu'à la fin||`` sous les 3 premiers.
-#### Modifie Middle C (Do) pour Low G (Sol) et 1 pour 2.
+#### Modifie Middle C (Do) pour Low A (La) et 1 pour 2.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -82,6 +82,6 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-### Voilà! Tu as réussi!
+## Voilà! Tu as réussi!
 Amuse-toi à essayer de créer la suite de la chanson "Au clair de la lune". Les 5 prochaines notes sont: Sol-Si-La-La-Sol.
 
