@@ -1,4 +1,4 @@
- ##Compteur musical
+ #Compteur musical
 Programme le micro:bit pour que le nombre de pression s'affiche et qu'un son se fasse entendre chaque fois que ce nombre est un multiple de 10.
 
 ## @showdialog
