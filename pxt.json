@@ -14,7 +14,8 @@
         "Circuit_electrique_Image_Minigolf.md",
         "danseur_endiable_animation.md",
         "compteur_musical.md",
-        "Bouton_jouer_melodie.md"
+        "Bouton_jouer_melodie.md",
+        "bouton_melodie_tone.md"
     ],
     "testFiles": [
         "test.ts"
