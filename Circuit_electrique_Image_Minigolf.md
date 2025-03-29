@@ -8,10 +8,6 @@ Programme le micro:bit pour qu'un bonhomme sourire apparaisse lorsqu'un circuit 
 Supprime le bloc ``||basic:au démarrage||``.
 #### Glisse-le vers la gauche, tu verras apparaître une poubelle
 
-```blocks
-basic.forever(function ()
-})
-```
 
 ## Étape 1
 Place le bloc ``||basic:afficher LEDs||`` dans le bloc ``||basic:au démarrage||``
