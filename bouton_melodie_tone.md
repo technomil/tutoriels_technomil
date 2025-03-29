@@ -32,6 +32,7 @@ input.onButtonPressed(Button.A, function () {
 ## Étape 4
 Duplique 2 fois le bloc `` || Music: jouer tonalité Low G pour 1 temps jusqu'à la fin||`` sous le premier bloc musical afin que ton Micro:bit joue "Sol-Sol-Sol".
 #### Observe l'indice au besoin
+###### Pour dupliquer, clique avec le bouton droit de la souris et choisis "Reproduire".
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
