@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Circuit_electrique_Image_Minigolf.md"
+        "Circuit_electrique_Image_Minigolf.md",
+        "danseur_endiable_animation.md"
     ],
     "testFiles": [
         "test.ts"
