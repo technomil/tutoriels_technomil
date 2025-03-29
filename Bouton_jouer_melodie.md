@@ -1,13 +1,22 @@
-# Afficher une image grâce à un circuit électrique
-Programme le micro:bit pour qu'un bonhomme sourire apparaisse lorsqu'un circuit électrique est fermé.
+# Faire jouer une mélodie en pressant un bouton
+Programme le micro:bit pour qu'une mélodie joue lorsqu'un bouton est pressé.
 
 
 ## @showdialog
 ## Avant de commencer
 
-## Test
+## Étape 1
+Glisse le bloc ``||onButton:Quand un bouton est pressé||``
  ```blocks
-input.onButtonPressed(Button.A, function () {
+input.onButtonPressed(Button.A, function ()
+
+```
+## Étape 2
+Glisse le bloc ``||Music:jouer mélodie au tempo 120bpm jusqu'à la fin||``
+
+```blocks
+ input.onButtonPressed(Button.A, function () {
     music.play(music.stringPlayable("- - - - - - - - ", 120), music.PlaybackMode.UntilDone)
 })
 ```
+
