@@ -15,13 +15,8 @@ input.onButtonPressed(Button.A, function ()
 Glisse le bloc ``||Music:jouer mélodie au tempo 120bpm jusqu'à la fin||``
 
 ```blocks
-
-let Temps = 0
 input.onButtonPressed(Button.A, function () {
-    Temps = 4
-    for (let index = 0; index < 3; index++) {
-        music.playTone(262, music.beat(BeatFraction.Quarter))
-    }
+    music.play(music.stringPlayable("C5 B A G F E D C ", 120), music.PlaybackMode.UntilDone)
 })
 
 ```
