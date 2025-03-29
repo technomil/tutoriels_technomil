@@ -4,6 +4,8 @@ Programme le Micro:bit pour qu'une mélodie joue lorsqu'un bouton est pressé.
 
 ## @showdialog
 ## Avant de commencer
+Supprime les blocs ``||basic:au démarrage||`` et ``||basic:forever||``
+#### Glisse-les vers la gauche, tu verras apparaître une poubelle
 
 ## Étape 1
 Glisse le bloc`` || input: lorsque le bouton A est pressé || ``
@@ -20,7 +22,7 @@ input.onButtonPressed(Button.A, function () {
     music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)), music.PlaybackMode.UntilDone)
 ```
 ## Étape 3
-Clique sur "Low C" (Do) et choisis la touche du piano "Low G" (Sol). 
+Clique sur "Middle C" (Do) et choisis la touche du piano "Low G" (Sol). 
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -40,7 +42,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 5
 Ajoute un autre bloc `` || Music: jouer tonalité Middle C pour 1 temps jusqu'à la fin||`` sous les 3 premiers.
-#### Modifie Low C (Do) pour Low A (La).
+#### Modifie Middle C (Do) pour Low A (La).
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -52,7 +54,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 6
 Ajoute un autre bloc `` || Music: jouer tonalité Middle C pour 1 temps jusqu'à la fin||`` sous les 3 premiers.
-#### Modifie Low C (Do) pour Low B (Si) et 1 pour 2.
+#### Modifie Middle C (Do) pour Low B (Si) et 1 pour 2.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -66,7 +68,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 7
 Ajoute un dernier bloc `` || Music: jouer tonalité Middle C pour 1 temps jusqu'à la fin||`` sous les 3 premiers.
-#### Modifie Low C (Do) pour Low G (Sol) et 1 pour 2.
+#### Modifie Middle C (Do) pour Low G (Sol) et 1 pour 2.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
