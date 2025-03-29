@@ -63,7 +63,7 @@ basic.forever(function () {
 
 ## Étape 4
 
-Duplique le bloc ``||basic:montrez LEDs||`` (bouton droit de la souris).
+Duplique le bloc ``||basic:montrez LEDs||`` (bouton droit de la souris - reproduire).
 #### Modifie la position des bras du danseur
 
 ```blocks
@@ -94,4 +94,5 @@ basic.forever(function () {
 
 ## Terminé! 
 
-Bravo! Tu as réussi!
+Bravo! Tu as réussi! 
+##### Tu peux t'amuser à ajouter des mouvements en dupliquant et en modifiant le bloc "Montrez LEDs"
