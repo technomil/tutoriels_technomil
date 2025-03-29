@@ -13,7 +13,8 @@
         "README.md",
         "Circuit_electrique_Image_Minigolf.md",
         "danseur_endiable_animation.md",
-        "compteur_musical.md"
+        "compteur_musical.md",
+        "Bouton_jouer_melodie.md"
     ],
     "testFiles": [
         "test.ts"
