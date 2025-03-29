@@ -1,5 +1,5 @@
 {
-    "name": "Tutoriels_TechnoMil",
+    "name": "compteur_musical",
     "version": "0.1.0",
     "description": "",
     "dependencies": {
@@ -12,7 +12,8 @@
         "main.ts",
         "README.md",
         "Circuit_electrique_Image_Minigolf.md",
-        "danseur_endiable_animation.md"
+        "danseur_endiable_animation.md",
+        "compteur_musical.md"
     ],
     "testFiles": [
         "test.ts"
