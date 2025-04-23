@@ -1,7 +1,7 @@
-# Danseur endiablé!
+## Danseur endiablé! @unplugged
 Programme le micro:bit pour qu'un danseur s'anime
+##### En tout temps, clique sur l'ampoule pour avoir un indice.
 
-## @showdialog
 ## Avant de commencer
 Supprime le bloc ``||basic:au démarrage||``.
 #### Glisse-le vers la gauche, tu verras apparaître une poubelle
