@@ -15,7 +15,8 @@
         "danseur_endiable_animation.md",
         "compteur_musical.md",
         "Bouton_jouer_melodie.md",
-        "bouton_melodie_tone.md"
+        "bouton_melodie_tone.md",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
