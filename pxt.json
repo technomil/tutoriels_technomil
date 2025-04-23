@@ -1,6 +1,6 @@
 {
     "name": "tutoriel_technomil",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "description": "",
     "dependencies": {
         "core": "*",
