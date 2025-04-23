@@ -1,6 +1,6 @@
 # Fais jouer "Au clair de la lune" à ton micro:bit!
 Programme le Micro:bit pour qu'une mélodie joue lorsqu'un bouton est pressé.
-##### En tout temps, clique sur l'ampoule pour avoir un indice.
+### En tout temps, clique sur l'ampoule pour avoir un indice.
 
 ## @showdialog
 ## Avant de commencer
