@@ -3,7 +3,7 @@ Programme le Micro:bit pour qu'une mélodie joue lorsqu'un bouton est pressé.
 ##### En tout temps, clique sur l'ampoule pour avoir un indice.
 
 ## Avant de commencer
-Supprime les blocs ``||basic:au démarrage||`` et ``||basic:forever||``
+Supprime les blocs ``||basic:au démarrage||`` et ``||basic:toujours||``
 #### Glisse-les vers la gauche, tu verras apparaître une poubelle
 
 ## Étape 1
